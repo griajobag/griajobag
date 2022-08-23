@@ -39,7 +39,6 @@ Flutter, Kotlin and Java for Android are my proffesional skills that i use to fi
 <div align="center">====================
 :running: :cartwheeling: My career path :running: :cartwheeling: ====================</div>
 <br>
-<br>
 <ul>
   <li>2016, <a href="https://www.wgs.co.id/" target="_blank">PT. WGS</a>, 1 Years, Java for Android</li>
   <li>2017 - 2022, <a href="https://sanatasystem.com/" target="_blank">PT. Sanata System</a>, 5 years, Java for Android, Kotlin, Flutter</li>
