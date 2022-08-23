@@ -36,11 +36,11 @@ Flutter, Kotlin and Java for Android are my proffesional skills that i use to fi
  <img src="https://getwingsfast.com/wp-content/uploads/2019/11/mysql-logo.jpg" alt="MySql Badge" width="100" height="50"/>
  <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" alt="Java Badge" width="100" height="50"/>
  
-<div align="center">====================
-:running: :cartwheeling: My career path :running: :cartwheeling: ====================</div>
+<div align="center">
+:point_down: :point_down: :point_down: My career path :point_down::point_down::point_down: </div>
 <br>
 <ul>
-  <li>2016, <a href="https://www.wgs.co.id/" target="_blank">PT. WGS</a>, 1 Years, Java for Android</li>
+  <li>2016, <a href="https://www.wgs.co.id/" target="_blank">PT. WGS</a>, 1 Year, Java for Android</li>
   <li>2017 - 2022, <a href="https://sanatasystem.com/" target="_blank">PT. Sanata System</a>, 5 years, Java for Android, Kotlin, Flutter</li>
   <li>Now, <a href="https://www.mitrais.com/id/" target="_blank">PT. Mitrais</a>, Flutter</li>
 </ul>
