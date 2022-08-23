@@ -28,7 +28,7 @@ Flutter, Kotlin and Java for Android are my proffesional skills that i use to fi
 
 :information_source: Beside the mobile development skills side, I also know about <b>Laravel</b> and <b>MySQL</b>. Those technologies I used for develop a simple CRUD REST-API and ADMIN-PAGE 
 
-:warning: <b>Laravel</b> and <b>MySQL</b> IS NOT my primary skills. I Never take a Corporate Level Project using those skills. I just take a small project or bussiness that no advance feature contains on the application :warning: <br>
+:warning: <b>Laravel</b> and <b>MySQL</b> IS NOT my primary skills. I never take a Corporate Level Project using those skills. I just take a small project or bussiness that no advance feature contains on the application :warning: <br>
 
 :hammer_and_wrench: Summary Skills of Backend Developement :
 <br>
