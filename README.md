@@ -45,6 +45,10 @@ Flutter, Kotlin and Java for Android are my proffesional skills that i use to fi
   <li>Now, <a href="https://www.mitrais.com/id/" target="_blank">PT. Mitrais</a>, Flutter</li>
 </ul>
 
+For detail experiences and detail projects that i have taken, please refer to :point_right: <a href="www.linkedin.com/in/putujoliartaguna">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 
 <!--
 **griajobag/griajobag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
