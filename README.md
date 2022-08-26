@@ -74,7 +74,7 @@ My name is Putu Guna, currently i working as a Flutter Developer. But actually b
   </tr>
   <tr>
     <td><a href="https://www.wgs.co.id/" target="_blank">PT. WGS</a></td>
-    <td>2016</td>
+    <td>2016 - 2017</td>
     <td>Java for Android</td>
   </tr>
   
