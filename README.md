@@ -15,7 +15,7 @@
 
 <br>
 <h2>Intro</h2>
-My name is Putu Guna, currently i working as a Flutter Developer. But actually beside Flutter, I had some experienced worked with 2 android technologies like Java for Android and Kotlin. Flutter, Kotlin and Java for Android are my proffesional skills that i use to find a Job or Project in corporate level. But currently Flutter is my primary skill, I'm very confidence with Flutter.
+My name is Putu Guna, currently i working as a Flutter Developer. But actually beside Flutter, I had some experiences worked with 2 Android technologies like <b>Java for Android</b> and <b>Kotlin</b>. Those are my proffesional skills that I use to find a Job or Project in corporate level. But for now, Flutter is my primary skill, I'm very confidence with Flutter.
  
 
 <h2>Support Skills</h2>
